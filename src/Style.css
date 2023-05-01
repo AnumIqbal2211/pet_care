@@ -949,13 +949,13 @@ hr {
 	Default Slider CSS 
 	======================= */
 .slide-bg-1 {
-    background-image: url(../img/slide-bg-1.jpg);
+    background-image: url(../public/assets/imges/slide-bg-1.jpg);
 }
 .slide-bg-2 {
-    background-image: url(../img/slide-bg-2.jpg);
+    background-image: url(../public/assets/imges/slide-bg-2.jpg);
 }
 .slide-bg-3 {
-    background-image: url(../img/slide-bg-3.jpg);
+    background-image: url(../public/assets/imges/slide-bg-3.jpg);
 }
 .swiper-slide {
     height: 720px;
@@ -998,13 +998,13 @@ hr {
 	Fullwidth Slider CSS 
 	======================= */
 .hero-image-1 {
-    background-image: url(../img/hero-image-1.jpg);
+    background-image: url(../public/assets/imges/hero-image-1.jpg);
 }
 .hero-image-2 {
-    background-image: url(../img/hero-image-2.html);
+    background-image: url(../public/assets/imges/hero-image-2.html);
 }
 .hero-image-3 {
-    background-image: url(../img/hero-image-3.html);
+    background-image: url(../public/assets/imges/hero-image-3.html);
 }
 .swiper-slide.swiper-slide-two {
     height: 100vh;
@@ -1036,7 +1036,7 @@ hr {
     text-transform: capitalize;
 }
 .hero-bg-1 {
-    background-image: url(../img/hero-image-1.jpg);
+    background-image: url(../public/assets/imges/hero-image-1.jpg);
 }
 .background-preview p {
     font-size: 18px;
@@ -1091,7 +1091,7 @@ hr {
     width: 100%;
     height: 100%;
     content: "";
-    background: url(../img/raster_dot.png);
+    background: url(../public/assets/imges/raster_dot.png);
 }
 /* 	============= 
 	End Homepage background-video 
@@ -1647,7 +1647,7 @@ hr {
     z-index: -1;
 }
 .count-bg {
-   background-image: url(../img/count-bg.jpg);
+   background-image: url(../public/assets/imges/count-bg.jpg);
 }
 .icon-box {
 	font-size: 50px;
@@ -1766,40 +1766,40 @@ hr {
 }
 /*---------Service Icons ------------*/
 .apartment .service_icon {
-	background: #15aa19 url("../img/icon/home.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/home.png") no-repeat center / 45% 45%;
 }
 .apartment:hover .service_icon {
-	background: #202020 url("../img/icon/home.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/home.png") no-repeat center / 45% 45%;
 }
 .office .service_icon {
-	background: #15aa19 url("../img/icon/office.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/office.png") no-repeat center / 45% 45%;
 }
 .office:hover .service_icon {
-	background: #202020 url("../img/icon/office.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/office.png") no-repeat center / 45% 45%;
 }
 .move_in_out .service_icon {
-	background: #15aa19 url("../img/icon/express.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/express.png") no-repeat center / 45% 45%;
 }
 .move_in_out:hover .service_icon {
-	background: #202020 url("../img/icon/express.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/express.png") no-repeat center / 45% 45%;
 }
 .car_washing .service_icon {
-	background: #15aa19 url("../img/icon/white_car.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/white_car.png") no-repeat center / 45% 45%;
 }
 .car_washing:hover .service_icon {
-	background: #202020 url("../img/icon/white_car.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/white_car.png") no-repeat center / 45% 45%;
 }
 .renovation .service_icon {
-	background: #15aa19 url("../img/icon/white_paintbrush.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/white_paintbrush.png") no-repeat center / 45% 45%;
 }
 .renovation:hover .service_icon {
-	background: #202020 url("../img/icon/white_paintbrush.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/white_paintbrush.png") no-repeat center / 45% 45%;
 }
 .green_cleaning .service_icon {
-	background: #15aa19 url("../img/icon/white_leaf.png") no-repeat center / 45% 45%;
+	background: #15aa19 url("../public/assets/imges/icon/white_leaf.png") no-repeat center / 45% 45%;
 }
 .green_cleaning:hover .service_icon {
-	background: #202020 url("../img/icon/white_leaf.png") no-repeat center / 45% 45%;
+	background: #202020 url("../public/assets/imges/icon/white_leaf.png") no-repeat center / 45% 45%;
 }
 .service_middle {
 	border-color: #15aa19;
@@ -1953,10 +1953,10 @@ hr {
   z-index: 1;
 }
 .breadcumbs-bg-1 {
-    background-image: url(../img/breadcumbs-bg-1.jpg);
+    background-image: url(../public/assets/imges/breadcumbs-bg-1.jpg);
 }
 .breadcumbs-bg-2 {
-    background-image: url(../img/breadcumbs-bg-2.html);
+    background-image: url(../public/assets/imges/breadcumbs-bg-2.html);
 }
 .breadcumbs-area::before {
   background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
@@ -2006,7 +2006,7 @@ hr {
 	position: relative;
 }
 .breadcumbs-banner-bg {
-    background-image: url(../img/breadcumbs-banner-bg.html);
+    background-image: url(../public/assets/imges/breadcumbs-banner-bg.html);
 }
 /* ==============
    End Breadcumbs Area CSS 
@@ -2023,7 +2023,7 @@ hr {
     margin: 0 auto;
 }
 .banner-man-bg {
-    background-image: url(../img/banner-man-bg.png);
+    background-image: url(../public/assets/imges/banner-man-bg.png);
 }
 .banner-boxed span {
     color: #15aa19;
@@ -2241,7 +2241,7 @@ hr {
 	margin: 30px auto 0;
 }
 .man-image-bg {
-  background-image: url(../img/appoinment-man-bg.png); 
+  background-image: url(../public/assets/imges/appoinment-man-bg.png); 
 }
 .select-hidden {
   display: none;
@@ -2812,7 +2812,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     margin: 40px 0;
 }
 .map-preview {
-    background-image: url(../img/map-preview.png);
+    background-image: url(../public/assets/imges/map-preview.png);
 }
 /* === End Footer Area CSS === */
 
@@ -3066,7 +3066,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     background-position: center center;
 }
 .contact-img-bg {
-    background-image: url(../img/contact-img-bg.png);
+    background-image: url(../public/assets/imges/contact-img-bg.png);
 }
 #map iframe {
     background-color: #eaeaea;
@@ -3551,13 +3551,13 @@ li.parsley-required, #contact_send_status {
     margin: auto;
 }
 .petcare-slider .item-one {
-    background-image: url(../img/home-four/petro-slider.jpg);
+    background-image: url(../public/assets/imges/home-four/petro-slider.jpg);
 }
 .petcare-slider .item-two {
-    background-image: url(../img/home-four/petro-slider2.jpg);
+    background-image: url(../public/assets/imges/home-four/petro-slider2.jpg);
 }
 .petcare-slider .item-three {
-    background-image: url(../img/home-four/petro-slider3.jpg);
+    background-image: url(../public/assets/imges/home-four/petro-slider3.jpg);
 }
 .petcare-slider .p-slide-item {
     text-align: center;
@@ -3591,7 +3591,7 @@ li.parsley-required, #contact_send_status {
     z-index: 1;
 }
 .pet-about-top-card .single-pet-ab-card .bg-1 {
-    background-image: url(../img/home-four/about/about-top1.png);
+    background-image: url(../public/assets/imges/home-four/about/about-top1.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3605,7 +3605,7 @@ li.parsley-required, #contact_send_status {
     bottom: 0;
 }
 .pet-about-top-card .single-pet-ab-card .bg-2 {
-    background-image: url(../img/home-four/about/about-top2.png);
+    background-image: url(../public/assets/imges/home-four/about/about-top2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3622,7 +3622,7 @@ li.parsley-required, #contact_send_status {
     background: #86ad49;
 }
 .pet-about-top-card .single-pet-ab-card .bg-3 {
-    background-image: url(../img/home-four/about/about-top3.png);
+    background-image: url(../public/assets/imges/home-four/about/about-top3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3752,7 +3752,7 @@ li.parsley-required, #contact_send_status {
 .pc-work-section .single-pc-work:before{
     content: "";
     position: absolute;
-    background-image: url(../img/home-four/work/work-shape.png);
+    background-image: url(../public/assets/imges/home-four/work/work-shape.png);
     width: 260px;
     height: 1px;
     top: 120px;
@@ -3780,7 +3780,7 @@ li.parsley-required, #contact_send_status {
     align-items: center;
     justify-content: center;
     display: inline-flex;
-    background-image: url(../img/home-four/work/1.png);
+    background-image: url(../public/assets/imges/home-four/work/1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -4269,7 +4269,7 @@ li.parsley-required, #contact_send_status {
 01: Petcare Testimonials Style
 ================================*/ 
 .pc-testimonials-section {
-    background-image: url(../img/home-four/testimonials/testimonials-bg.jpg);
+    background-image: url(../public/assets/imges/home-four/testimonials/testimonials-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -4302,7 +4302,7 @@ li.parsley-required, #contact_send_status {
 .pc-testimonials-section .pc-single-testimonial::before {
     content: "";
     position: absolute;
-    background-image: url(../img/home-four/testimonials/puppy-illustration.png);
+    background-image: url(../public/assets/imges/home-four/testimonials/puppy-illustration.png);
     background-repeat: no-repeat;
     background-position: center center;
     width: -webkit-fill-available;
