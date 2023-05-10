@@ -1,8 +1,5 @@
-
-
 // function AboutUs() {
 //     return(
-
 
 //         <section>
 
@@ -18,7 +15,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Preloader -->
-        
+
 //         <!-- Start Top Header Area --> */}
 //         <div class="top-header-area">
 //             <div class="container">
@@ -44,18 +41,18 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Start Top Header Area -->
-        
+
 //         <!-- Start Main Menu Area --> */}
 //         <div class="main-menu-area">
-//             <div class="container"> 
-//                 <div class="row"> 
-//                     <div class="col-lg-3"> 
+//             <div class="container">
+//                 <div class="row">
+//                     <div class="col-lg-3">
 //                         <div class="logo">
 //                             <a href="index.html"><img src="assets/img/logo.png" alt="Logo"/></a>
 //                         </div>
 //                     </div>
-                    
-//                     <div class="col-lg-9"> 
+
+//                     <div class="col-lg-9">
 //                         <nav class="navbar navbar-expand-lg navbar-light">
 //                             {/* <!-- Brand and toggle get grouped for better mobile display --> */}
 //                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -73,7 +70,7 @@
 //                                             </li>
 //                                             {/* <!-- <li>
 //                                                 <a class="dropdown-item" href="index2.html">Home V.1</a>
-//                                             </li> 
+//                                             </li>
 //                                             <li>
 //                                                 <a class="dropdown-item" href="index-video-bg.html">Home V.2</a>
 //                                             </li> -->
@@ -84,7 +81,7 @@
 //                                                 <a class="dropdown-item" href="index4.html">Home V.4</a>
 //                                             </li> --> */}
 //                                         </ul>
-//                                     </li> 
+//                                     </li>
 
 //                                     <li class="nav-item dropdown">
 //                                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <i class="fa fa-angle-down"></i></a>
@@ -97,7 +94,7 @@
 //                                             <li><a class="dropdown-item" href="signin.html">Sign in</a></li>
 //                                             {/* <!-- <li><a class="dropdown-item" href="404.html">404 Not Found</a></li> -->
 //                                             <!-- <li class="dropdown-menu right-top">
-//                                                 <a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Page Two <i class="fa fa-angle-right"></i></a> 
+//                                                 <a href="#" class="dropdown-item dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Page Two <i class="fa fa-angle-right"></i></a>
 //                                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 //                                                     <li><a class="dropdown-item" href="#">Sub Page</a></li>
 //                                                     <li><a class="dropdown-item" href="#">Sub Two</a></li>
@@ -105,8 +102,8 @@
 //                                             </li>
 //                                             <li><a class="dropdown-item" href="#">Page Three</a></li>
 //                                             <li><a class="dropdown-item" href="#">Page Four</a></li> --> */}
-//                                         </ul> 
-//                                     </li>   
+//                                         </ul>
+//                                     </li>
 //                                     <li class="nav-item">
 //                                         <a class="nav-link" href="about-us.html">About</a>
 //                                     </li>
@@ -128,7 +125,7 @@
 //                                             <li><a class="dropdown-item" href="gallery-v1.html">Gallery V.1</a></li>
 //                                             {/* <!-- <li><a class="dropdown-item" href="gallery-v2.html">Gallery V.2</a></li> --> */}
 //                                         </ul>
-//                                     </li>     
+//                                     </li>
 //                                     <li class="nav-item">
 //                                         <a class="nav-link" href="appointment.html">Appointment</a>
 //                                     </li>
@@ -142,7 +139,7 @@
 //                                                 {/* <!-- <li><a class="dropdown-item" href="single-blog.html">Single Blog V.1</a></li>
 //                                                 <li><a class="dropdown-item" href="single-blog-style2.html">Single Blog V.2</a></li>
 //                                                 <li><a class="dropdown-item" href="single-blog-left-sidebar.html">Single Blog V.3</a></li>  --> */}
-//                                        </ul> 
+//                                        </ul>
 //                                     </li>
 //                                     <li class="nav-item">
 //                                         <a class="nav-link" href="contact-us.html">Contact</a>
@@ -151,14 +148,14 @@
 //                                         <a class="nav-link" href="#search"><i class="fa fa-search"></i></a>
 //                                     </li>
 //                                 </ul>
-//                             </div> 
+//                             </div>
 //                         </nav>
 //                     </div>
 //                 </div>
 //             </div>
 //         </div>
 //         {/* <!-- End Main Menu Area -->
-        
+
 //         <!-- SearchBox Modal --> */}
 //         <div id="search">
 //             <button type="button" class="close">×</button>
@@ -168,7 +165,7 @@
 //             </form>
 //         </div>
 //         {/* <!-- End SearchBox Modal -->
-        
+
 //         <!-- Start Homepage Slider --> */}
 //         <div class="homepage-slides-wrapper">
 //             {/* <!-- Slider main container --> */}
@@ -191,7 +188,7 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="swiper-slide slide-bg-2">
 //                         <div class="d-table">
 //                             <div class="d-table-cell">
@@ -207,7 +204,7 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="swiper-slide slide-bg-3">
 //                         <div class="d-table">
 //                             <div class="d-table-cell">
@@ -234,8 +231,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Homepage Slider -->
-        
-        
+
 //         <!-- Start Services Area --> */}
 //         <div class="content-block-area gray-bg">
 //             <div class="container">
@@ -260,7 +256,7 @@
 //                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-4">
 //                         <div class="featured-boxed text-center">
 //                             <div class="icon-boxed">
@@ -272,7 +268,7 @@
 //                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-4">
 //                         <div class="featured-boxed text-center">
 //                             <div class="icon-boxed">
@@ -286,9 +282,9 @@
 //                     </div>
 //                 </div>
 //             </div>
-            
+
 //             <div class="separator-line"></div>
-            
+
 //             <div class="container-fluid">
 //                 <div class="row">
 //                     <div class="col-lg-3 col-md-6">
@@ -339,7 +335,7 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-lg-3 col-md-6">
 //                         <div class="services-item">
 //                             <div class="box">
@@ -356,7 +352,7 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-lg-12 text-center">
 //                         <a href="services.html" class="btn theme-btn m-t-50">view all services</a>
 //                     </div>
@@ -364,7 +360,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Services Area -->
-    
+
 //         <!-- Start Why Choose Us Area --> */}
 //         <div class="content-block-area">
 //             <div class="container">
@@ -383,45 +379,45 @@
 //                             <span class="sirial-number">01</span>
 //                             <span class="single-boxed"><i class="fa fa-volume-control-phone"></i></span>
 //                             <h3>Fast Response</h3>
-//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-6 col-lg-3">
 //                         <div class="boxed-item">
 //                             <span class="sirial-number">02</span>
 //                             <span class="single-boxed"><i class="fa fa-home"></i></span>
 //                             <h3>Comfortable Office</h3>
-//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-6 col-lg-3">
 //                         <div class="boxed-item">
 //                             <span class="sirial-number">03</span>
 //                             <span class="single-boxed"><i class="fa fa-cogs"></i></span>
 //                             <h3>High Quality Equipment</h3>
-//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-6 col-lg-3">
 //                         <div class="boxed-item">
 //                             <span class="sirial-number">04</span>
 //                             <span class="single-boxed"><i class="fa fa-user-md"></i></span>
 //                             <h3>Very Friendly Staff</h3>
-//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+//                             <p>It is a long established fact that a reader will be distracted by the readable content.</p>
 //                         </div>
 //                     </div>
 //                 </div>
-                
+
 //                 <div class="col-lg-12 text-center">
 //                     <a href="about-us.html" class="btn theme-btn m-t-50">about us</a>
 //                 </div>
 //             </div>
 //         </div>
 //         {/* <!-- End Why Choose Us Area -->
-        
+
 //         <!-- Start Count-Down Area --> */}
 //         <div class="count-down-area count-bg jarallax">
 //             <div class="container">
@@ -464,7 +460,7 @@
 //                            <div class="icon-box">
 //                                <i class="fa fa-clock-o"></i>
 //                             </div>
-//                             <span class="count-icon"> 
+//                             <span class="count-icon">
 //                                 <span class="count-number counter">14,500</span>
 //                             </span>
 //                             <h3 class="count-info">Hours Worked</h3>
@@ -474,7 +470,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Count-Down Area -->
-        
+
 //         <!-- Start Services Area --> */}
 //         <div class="content-block-area">
 //             <div class="container">
@@ -487,7 +483,7 @@
 //                        </div>
 //                     </div>
 //                 </div>
-                
+
 //                 <div class="content service_content">
 //                     <div class="row">
 //                       <div class="service_left">
@@ -510,7 +506,7 @@
 //                             </a>
 //                         </div>
 //                       </div>
-//                       <div class="service_middle round"> 
+//                       <div class="service_middle round">
 //                         <img class="round" src="assets/img/service.png" alt="" />
 //                       </div>
 //                       <div class="service_right">
@@ -536,7 +532,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Services Area -->
-        
+
 //         <!-- Start Our testimonials Area --> */}
 //         <div class="content-block-area gray-bg">
 //             <div class="container">
@@ -550,7 +546,7 @@
 //                            <img src="assets/img/testimonial-car.png" alt="Image"/>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-6 col-lg-4">
 //                         <div class="testimonial-item">
 //                             <div class="testimonial-single-item">
@@ -563,13 +559,13 @@
 //                                     <li><i class="fa fa-star"></i></li>
 //                                 </ul>
 //                             </div>
-                            
+
 //                             <div class="quotation-profile">
 //                                 <img src="assets/img/testimonials-1.jpg" alt="Image"/>
-//                             </div>  
+//                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-6 col-lg-4">
 //                         <div class="testimonial-item">
 //                             <div class="testimonial-single-item">
@@ -587,7 +583,7 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-12 col-lg-8 offset-lg-4 text-center">
 //                         <a href="#" class="btn theme-btn">see testimonials</a>
 //                     </div>
@@ -595,7 +591,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Our testimonials Area -->
-        
+
 //         <!-- Start Our team Area --> */}
 //         <div class="content-block-area">
 //             <div class="container">
@@ -628,8 +624,8 @@
 //                                 <span class="post">Pain Management</span>
 //                             </div>
 //                         </div>
-//                     </div> 
-                    
+//                     </div>
+
 //                     <div class="col-lg-4 col-md-6">
 //                         <div class="our-team">
 //                             <div class="team-image">
@@ -649,8 +645,8 @@
 //                                 <span class="post">Pet Education</span>
 //                             </div>
 //                         </div>
-//                     </div> 
-                    
+//                     </div>
+
 //                     <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
 //                         <div class="our-team">
 //                             <div class="team-image">
@@ -671,12 +667,12 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                     
+
 //                 </div>
 //             </div>
 //         </div>
 //         {/* <!-- End Our team Area --> */}
-        
+
 //         {/* <!-- Start Appointment Area --> */}
 //         <div class="content-block-area">
 //             <div class="container">
@@ -689,7 +685,7 @@
 //                        </div>
 //                     </div>
 //                 </div>
-                
+
 //                 <div class="row">
 //                     <div class="col-lg-5">
 //                         <div class="apointment-preview-boxed man-image-bg wow fadeInUp"></div>
@@ -772,7 +768,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Appointment Area -->
-        
+
 //         <!-- Start News Area --> */}
 //         <div class="content-block-area gray-bg">
 //             <div class="container">
@@ -790,11 +786,11 @@
 //                         <div class="single-blog-item">
 //                             <a href="#" class="zoomin"><img src="assets/img/blog-item-one.jpg" alt="Image Description"/></a>
 //                             <div class="blog-item-info">
-//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div> 
+//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div>
 //                                 <a class="blog-tags red" href="#"><i class="fa fa-tag"></i> Day Camp</a>
 //                                 <a href="#"><h3>Blog Title Goes to Here</h3></a>
 //                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
-                                
+
 //                                 <div class="row">
 //                                     <div class="col-7">
 //                                         <div class="blog-item-profile">
@@ -811,16 +807,16 @@
 //                             </div>
 //                         </div>
 //                     </div>
-                       
+
 //                     <div class="col-md-4">
 //                         <div class="single-blog-item">
 //                             <a href="#" class="zoomin"><img src="assets/img/blog-item-two.jpg" alt="Image Description"/></a>
 //                             <div class="blog-item-info">
-//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div> 
+//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div>
 //                                 <a class="blog-tags green" href="#"><i class="fa fa-tag"></i> Grooming</a>
 //                                 <a href="#"><h3>Blog Title Goes to Here</h3></a>
 //                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
-                                
+
 //                                 <div class="row">
 //                                     <div class="col-7">
 //                                         <div class="blog-item-profile">
@@ -834,19 +830,19 @@
 //                                         </div>
 //                                     </div>
 //                                 </div>
-//                             </div> 
+//                             </div>
 //                         </div>
 //                     </div>
-                    
+
 //                     <div class="col-md-4">
 //                         <div class="single-blog-item">
 //                             <a href="#" class="zoomin"><img src="assets/img/blog-item-three.jpg" alt="Image Description"/></a>
 //                             <div class="blog-item-info">
-//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div> 
+//                                 <span class="blog-date">August 20, 2021</span> <div class="separator">|</div>
 //                                 <a class="blog-tags blue" href="#"><i class="fa fa-tag"></i> Training</a>
 //                                 <a href="#"><h3>Blog Title Goes to Here</h3></a>
 //                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
-                                
+
 //                                 <div class="row">
 //                                     <div class="col-7">
 //                                         <div class="blog-item-profile">
@@ -867,7 +863,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End News Area -->
-        
+
 //         <!-- Start Our Parners Area --> */}
 //         <div class="content-block-area">
 //             <div class="container">
@@ -903,7 +899,7 @@
 //             </div>
 //         </div>
 //         {/* <!-- End Our Parners Area -->
-        
+
 //         <!-- Footer Area --> */}
 //         <footer class="site-footer">
 //             {/* <!-- Footer Top Area --> */}
@@ -989,7 +985,7 @@
 
 //                     <div class="row">
 //                         <div class="col-lg-12 text-center">
-//                             <div class="social-icos">    
+//                             <div class="social-icos">
 //                                 <ul class="list-inline">
 //                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 //                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -1001,7 +997,7 @@
 //                         </div>
 //                     </div>
 //                 </div>
-//             </div> 
+//             </div>
 
 //             {/* <!-- Footer Bottom Area --> */}
 //             <div class="footer-copyright-area">
@@ -1015,10 +1011,10 @@
 //                         </div>
 //                     </div>
 //                 </div>
-//             </div> 
+//             </div>
 //         </footer>
 
-//         </section>     
+//         </section>
 //     );
 // }
 // export default AboutUs;
