@@ -1,3 +1,8 @@
+import dog from  "../assets/images/dog.png";
+import team_one from "../assets/images/team-one.jpg";
+import team_two from "../assets/images/team-two.jpg";
+import team_three from "../assets/images/team-three.jpg";
+
 function OurTeam() {
   return (
     <div class="content-block-area">
@@ -9,7 +14,7 @@ function OurTeam() {
                 <span>our experienced</span> team
               </h2>
               <div class="car-icon">
-                <img src="../assets/images/dog.png" alt="car" />
+                <img src={dog} alt="car" />
               </div>
               <p>
                 It is a long established fact that a reader will be distracted
@@ -22,13 +27,8 @@ function OurTeam() {
           <div class="col-lg-4 col-md-6">
             <div class="our-team">
               <div class="team-image">
-                <img src="../assets/images/team-one.jpg" alt="team-one" />
-                <p class="description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent urna diam, maximus ut ullamcorper quis, placerat id
-                  eros. Duis semper justo sed condimentum rutrum. Nunc tristique
-                  purus turpis. Maecenas vulputate.
-                </p>
+                <img src={team_one} alt="team-one" />
+               
                 <ul class="social">
                   <li>
                     <a href="#">
@@ -62,13 +62,8 @@ function OurTeam() {
           <div class="col-lg-4 col-md-6">
             <div class="our-team">
               <div class="team-image">
-                <img src="../assets/images/team-two.jpg" alt="team-two" />
-                <p class="description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent urna diam, maximus ut ullamcorper quis, placerat id
-                  eros. Duis semper justo sed condimentum rutrum. Nunc tristique
-                  purus turpis. Maecenas vulputate.
-                </p>
+                <img src={team_two} alt="team-two" />
+                
                 <ul class="social">
                   <li>
                     <a href="#">
@@ -102,13 +97,8 @@ function OurTeam() {
           <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
             <div class="our-team">
               <div class="team-image">
-                <img src="../assets/images/team-three.jpg" alt="team-three" />
-                <p class="description">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Praesent urna diam, maximus ut ullamcorper quis, placerat id
-                  eros. Duis semper justo sed condimentum rutrum. Nunc tristique
-                  purus turpis. Maecenas vulputate.
-                </p>
+                <img src={team_three} alt="team-three" />
+               
                 <ul class="social">
                   <li>
                     <a href="#">

@@ -1,3 +1,7 @@
+import testinomial_car from "../assets/images/testimonial-car.png";
+import testimonial_1 from "../assets/images/testimonials-1.jpg";
+import testimonial_2 from "../assets/images/testimonials-2.jpg";
+
 function Testimonials() {
   return (
     <div class="content-block-area gray-bg">
@@ -11,7 +15,7 @@ function Testimonials() {
               </h2>
             </div>
             <div class="testimonials-car-boxed wow fadeInLeft">
-              <img src="../assets/images/testimonial-car.png" alt="Image" />
+              <img src={testinomial_car} alt="Image" />
             </div>
           </div>
 
@@ -45,7 +49,7 @@ function Testimonials() {
               </div>
 
               <div class="quotation-profile">
-                <img src="../assets/images/testimonials-1.jpg" alt="Image" />
+                <img src={testimonial_1} alt="Image" />
               </div>
             </div>
           </div>
@@ -79,13 +83,13 @@ function Testimonials() {
                 </ul>
               </div>
               <div class="quotation-profile">
-                <img src="../assets/images/31m.jpg" alt="Image" />
+                <img src={testimonial_2} alt="Image" />
               </div>
             </div>
           </div>
 
           <div class="col-md-12 col-lg-8 offset-lg-4 text-center">
-            <a href="#" class="btn theme-btn">
+            <a href="/" class="btn theme-btn">
               see testimonials
             </a>
           </div>

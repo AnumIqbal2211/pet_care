@@ -1,9 +1,58 @@
 import React, { useState } from "react";
+import logo from "../assets/images/logo.png";
 
 function SignIn() {
   const [email, setEmail] = useState();
   const [password, setPassword] = useState();
 
+  function handleSubmit() {
+    const requestOptions = {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ title: "React Hooks POST Request Example" }),
+    };
+
+    fetch("https://www.boredapi.com/api/activity", {}).then((response) =>
+      console.log(response.json())
+    );
+  }
+
+  // function PUT() {
+  //   const element = document.querySelector("#put-request .date-updated");
+  //   const requestOptions = {
+  //     method: "PUT",
+  //     headers: { "Content-Type": "application/json" },
+  //     body: JSON.stringify({ title: "Fetch PUT Request Example" }),
+  //   };
+  //   fetch("https://api.publicapis.org/entries", requestOptions).then(
+  //     (response) => response.json()
+  //   );
+  // }
+
+  // function POST() {
+  //   async function componentDidMount() {
+  //     const response = await fetch("https://catfact.ninja/fact");
+  //     const data = await response.json();
+  //   }
+  // }
+
+  // function GET() {
+  //   async function componentDidMount() {
+  //     const response = await fetch( "https://api.coindesk.com/v1/bpi/currentprice.json" );
+  //     const data = await response.json();
+      
+  //   }
+  // }
+
+  // function DELETE() {
+  //   async function deletePost() {
+  //     await fetch("https://www.boredapi.com/api/activity", {
+  //       method: "DELETE",
+  //     });
+  //   }
+
+  //   deletePost();
+  // }
 
   return (
     // Sign In Form Area
@@ -11,7 +60,7 @@ function SignIn() {
       <div className="signup-form signin-form">
         <div className="logo-two">
           <a href="index.html">
-            <img src="assets/images/logo.png" alt="Logo" />
+            <img src={logo} alt="Logo" />
           </a>
         </div>
 
@@ -57,11 +106,41 @@ function SignIn() {
           </div>
           <div className="form-group">
             <button
-              /*onClick= {signIn} */ type="submit"
+              onClick= {handleSubmit} 
+              type="submit"
               className="btn btn-primary btn-block btn-lg"
             >
               Sign In
             </button>
+
+            {/* <button
+              onClick={PUT}
+              type="submit"
+              className="btn btn-primary btn-block btn-lg"
+            >
+              PUT
+            </button>
+            <button
+              onClick={POST}
+              type="submit"
+              className="btn btn-primary btn-block btn-lg"
+            >
+              POST
+            </button>
+            <button
+              onClick={GET}
+              type="submit"
+              className="btn btn-primary btn-block btn-lg"
+            >
+              GET
+            </button>
+            <button
+              onClick={DELETE}
+              type="submit"
+              className="btn btn-primary btn-block btn-lg"
+            >
+              DELETE
+            </button> */}
           </div>
           <p className="small text-center">
             By clicking the Sign In button, you agree to our <br></br>

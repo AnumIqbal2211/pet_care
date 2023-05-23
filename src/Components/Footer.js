@@ -1,3 +1,5 @@
+import logo from "../assets/images/logo.png";
+
 function Footer() {
   return (
     <footer class="site-footer">
@@ -35,7 +37,7 @@ function Footer() {
             <div class="col-lg-4 col-md-12">
               <div class="footer-wid">
                 <a href="index.html" class="footer-logo">
-                  <img src="../assets/images/logo.png" alt="logo" />
+                  <img src={logo} alt="logo" />
                 </a>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed

@@ -1,4 +1,8 @@
 import servicesImage from "../ImportImages/services-img-one.jpg";
+import dogImage from "../assets/images/dog.png";
+import pet_1 from "../assets/images/Pet-1.png";
+import pet_2 from "../assets/images/Pet2.png";
+import pet_3 from "../assets/images/Pet-3.png";
 
 function FeaturedServices() {
   return (
@@ -11,7 +15,7 @@ function FeaturedServices() {
                 <span>Our featured</span> services
               </h2>
               <div class="car-icon">
-                <img src="../assets/images/dog.png" alt="car" />
+                <img src={dogImage} alt="car" />
               </div>
               <p>
                 It is a long established fact that a reader will be distracted
@@ -24,7 +28,7 @@ function FeaturedServices() {
           <div class="col-md-4">
             <div class="featured-boxed text-center">
               <div class="icon-boxed">
-                <img src="../assets/images/Pet-1.png" alt="dog-1" />
+                <img src={pet_1} alt="dog-1" />
               </div>
               <h3>Day Camp</h3>
               <div class="upper-line"></div>
@@ -40,7 +44,7 @@ function FeaturedServices() {
           <div class="col-md-4">
             <div class="featured-boxed text-center">
               <div class="icon-boxed">
-                <img src="../assets/images/Pet2.png" alt="dog-1" />
+                <img src={pet_2} alt="dog-1" />
               </div>
               <h3>Training</h3>
               <div class="upper-line"></div>
@@ -56,7 +60,7 @@ function FeaturedServices() {
           <div class="col-md-4">
             <div class="featured-boxed text-center">
               <div class="icon-boxed">
-                <img src="../assets/images/Pet-3.png" alt="dog-1" />
+                <img src={pet_3} alt="dog-1" />
               </div>
               <h3>Grooming</h3>
               <div class="upper-line"></div>

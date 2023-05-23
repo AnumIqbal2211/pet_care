@@ -18,7 +18,7 @@ function Header() {
                     class="__cf_email__"
                     data-cfemail="9deee8ededf2efe9ddedf8e9fef1f4f3f4feb3fef2f0"
                   >
-                    [email&#160;protected]
+                    pet.clinic@gmail.com
                   </span>
                 </a>
               </li>

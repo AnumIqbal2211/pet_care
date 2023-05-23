@@ -77,7 +77,7 @@ function ChooseUs() {
         </div>
 
         <div class="col-lg-12 text-center">
-          <a href="about-us.html" class="btn theme-btn m-t-50">
+          <a href="/" class="btn theme-btn m-t-50">
             about us
           </a>
         </div>

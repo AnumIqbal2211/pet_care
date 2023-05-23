@@ -8,7 +8,6 @@ import CountDownArea from "./CountDownArea.js";
 import SpecialServices from "./SpecialServices.js";
 import Testimonials from "./Testimonials.js";
 import OurTeam from "./OurTeam.js";
-import Appointment from "./Appointment.js";
 import News from "./News.js";
 import Footer from "./Footer.js";
 
@@ -44,9 +43,6 @@ function Home() {
 
       {/* Our team Area  */}
       <OurTeam />
-
-      {/* Appointment Area */}
-      <Appointment />
 
       {/* News Area */}
       <News />

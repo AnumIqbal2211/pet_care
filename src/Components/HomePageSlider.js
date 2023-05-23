@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function HomePageSlider() {
   return (
     <div class="homepage-slides-wrapper">
@@ -14,9 +16,9 @@ function HomePageSlider() {
                     <div class="col-lg-6">
                       <h1>Offering high-quality care for your pets!</h1>
                       <p>Our friendly and experienced staff welcomes you!</p>
-                      <a class="btn theme-btn" href="appointment.html">
+                      <Link to="/appointment" className="btn theme-btn">
                         make an appointment
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

@@ -1,3 +1,6 @@
+import dog from "../assets/images/dog.png";
+import service from "../assets/images/service.png";
+
 function SpecialServices() {
   return (
     <div class="content-block-area">
@@ -9,7 +12,7 @@ function SpecialServices() {
                 <span>Special</span> services
               </h2>
               <div class="car-icon">
-                <img src="../assets/images/dog.png" alt="car" />
+                <img src={dog} alt="car" />
               </div>
               <p>
                 It is a long established fact that a reader will be distracted
@@ -60,7 +63,7 @@ function SpecialServices() {
               </div>
             </div>
             <div class="service_middle round">
-              <img class="round" src="../assets/images/service.png" alt="" />
+              <img class="round" src={service} alt="" />
             </div>
             <div class="service_right">
               <div class="car_washing">

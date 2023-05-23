@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import logo from "../assets/images/logo.png";
 
 function SignUp() {
   const [name, setName] = useState("");
@@ -16,7 +17,7 @@ function SignUp() {
       <div class="signup-form">
         <div class="logo-two">
           <a href="index.html">
-            <img src="assets/images/logo.png" alt="Logo" />
+            <img src={logo} alt="Logo" />
           </a>
         </div>
 
@@ -93,7 +94,7 @@ function SignUp() {
           </div>
           <div class="form-group">
             <button
-              /* onClick={signUp} */ type="submit"
+              onClick={signUp}  type="submit"
               class="btn btn-primary btn-block btn-lg"
             >
               Sign Up
